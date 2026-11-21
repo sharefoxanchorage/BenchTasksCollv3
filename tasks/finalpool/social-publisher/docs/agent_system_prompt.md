@@ -1,0 +1,1 @@
+Complete the social-publisher task requirements.

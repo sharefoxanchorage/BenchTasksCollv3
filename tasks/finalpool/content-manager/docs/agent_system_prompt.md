@@ -1,0 +1,1 @@
+Complete the content-manager task requirements.

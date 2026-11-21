@@ -1,0 +1,1 @@
+Complete the activity-logger task requirements.

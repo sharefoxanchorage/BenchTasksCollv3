@@ -1,0 +1,1 @@
+Complete the qr-generator task requirements.

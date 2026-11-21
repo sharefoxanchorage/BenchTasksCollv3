@@ -1,0 +1,1 @@
+Implement the qr-generator task.
